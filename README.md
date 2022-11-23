@@ -48,7 +48,7 @@ const professionalProfile = {
 };
 ```
 
-- 🔭 I’m currently working as Senior Backend Software Engineer on Stone
+- 🔭 I’m currently working as Senior Backend Software Engineer on [Stone](https://www.stone.com.br/)
 - 🌱 I’m currently learning GCP Devops Technologies
 - 💬 Ask me about backend architecture 
 - 📫 How to reach me: alangpereira1990@gmail.com
