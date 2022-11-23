@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-```
+```javascript
 const personalProfile = {
     name: "Alan Gabriel Pereira",    
     age: 32,
@@ -23,12 +23,12 @@ const personalProfile = {
 
 const professionalProfile = {
     role: "Senior Backend Software Engineer",
-    mainTechnologies: [
+    mainTechnologies: {
         languagesAndFrameworks: [
-            "NodeJs", 
+            "NodeJs",
             "Javascript",
             "Typescript",
-            "dotNet Core"            
+            "dotNet Core"
         ],
         devops: [
             "AWS Amazon",
@@ -44,7 +44,7 @@ const professionalProfile = {
             "MongoDB",
             "AWS DynamoDB"
         ]
-    ]
+    }
 };
 ```
 
