@@ -5,12 +5,51 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+```
+const personalProfile = {
+    name: "Alan Gabriel Pereira",    
+    age: 32,
+    maritalStatus: MaritalStatus.Married,
+    resident: "Santo André - SP",
+    hobbies: [
+        "Listen to Music",
+        "Play Guitar Bass",
+        "Movies and Series",
+        "Walk with the Family"
+    ]
+};
+
+const professionalProfile = {
+    role: "Senior Backend Software Engineer",
+    mainTechnologies: [
+        languagesAndFrameworks: [
+            "NodeJs", 
+            "Javascript",
+            "Typescript",
+            "dotNet Core"            
+        ],
+        devops: [
+            "AWS Amazon",
+            "GCP",
+            "Apache Kafka"
+        ],
+        sqlDatabases: [
+            "SQL Server",
+            "PostgreSQL",
+            "Firebird"
+        ],
+        noSQLDatabases: [
+            "MongoDB",
+            "AWS DynamoDB"
+        ]
+    ]
+};
+```
+
+- 🔭 I’m currently working as Senior Backend Software Engineer on Stone
+- 🌱 I’m currently learning GCP Devops Technologies
+- 💬 Ask me about backend architecture 
+- 📫 How to reach me: alangpereira1990@gmail.com
+- ⚡ Fun fact: I am passionate with soccer, but I am terrible player
